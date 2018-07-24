@@ -1177,6 +1177,8 @@ static const char *strMainNetDNSSeed[][2] = {
     {"musdcoin.com", "52.29.209.219"},
     {"musdcoin.com", "52.57.110.64"},
     {"musdcoin.com", "52.58.176.221"},
+    {"musdcoin.com", "188.214.128.123"},
+    {"musdcoin.com", "188.214.128.152"},
     {NULL, NULL}
 };
 
@@ -1184,6 +1186,8 @@ static const char *strTestNetDNSSeed[][2] = {
     {"musdcoin.com", "52.29.209.219"},
     {"musdcoin.com", "52.57.110.64"},
     {"musdcoin.com", "52.58.176.221"},
+    {"musdcoin.com", "188.214.128.123"},
+    {"musdcoin.com", "188.214.128.152"},
     {NULL, NULL}
 };
 
